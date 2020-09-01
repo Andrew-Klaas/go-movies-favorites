@@ -12,6 +12,4 @@ ENTRYPOINT /go/bin/go-movies-favoritess-app
 EXPOSE 8081
 
 
-#docker build --no-cache -t aklaas2/go-movies-app .;docker push aklaas2/go-movies-app:latest
-#docker build --no-cache -t aklaas2/go-movies-app-v2 .;docker push aklaas2/go-movies-app-v2:latest
 #docker build --no-cache -t aklaas2/go-movies-favorites-app .;docker push aklaas2/go-movies-favorites-app:latest
